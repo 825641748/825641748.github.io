@@ -1,7 +1,0 @@
-baseurl: /825641748.github.io
-    |--　_config.yml
-    |--   index.html
-    |--   _posts
-    |    |--　2015-05-05-my_first_article.md
-    |--   _layouts
-    |    |--　default.html
