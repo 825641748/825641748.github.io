@@ -1,10 +1,7 @@
-theme: jekyll-theme-cayman
-baseurl: /825641748.github.io
-
 /825641748.github.io
-        |-- _config.yml
-        |--  index.html
-        |--  _posts
-        |    |-- 2021-08-11-my-fisrt_article.md
-	|--  _layouts
-	|    |-- default.html
+    |--　_config.yml
+    |--   index.html
+    |--   _posts
+    |    |--　2015-05-05-my_first_article.md
+    |--   _layouts
+    |    |--　default.html
